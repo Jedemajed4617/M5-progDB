@@ -1,0 +1,60 @@
+Selecteren (*select):
+
+Stel je voor dat dit is als het lezen van een boek. Met het recht om te 'selecteren', 
+mag je de gegevens in een database lezen, maar je kunt niets in het boek veranderen. Je kunt de inhoud bekijken en informatie opvragen, 
+maar je kunt geen nieuwe hoofdstukken toevoegen of iets wissen.
+
+
+Verwijderen (*delete): 
+
+Dit is als het recht om pagina's uit een boek te scheuren. 
+Met het recht om te 'verwijderen', kun je gegevens uit een database halen. 
+Het is alsof je pagina's uit het boek haalt en ze permanent kwijtraakt.
+
+
+Invoegen (*insert): 
+
+Denk aan 'invoegen' als het toevoegen van nieuwe informatie aan een boek. 
+Hiermee kun je nieuwe dingen aan de database toevoegen, zoals het schrijven van een nieuw hoofdstuk 
+of het toevoegen van een nieuwe paragraaf.
+
+
+Bijwerken (*update):
+
+Met het recht om 'bij te werken', 
+kun je bestaande informatie in een boek wijzigen. 
+Vergelijk het met het bewerken van een al geschreven verhaal. 
+Je kunt de inhoud van een hoofdstuk veranderen of details aanpassen, 
+maar het boek zelf blijft bestaan.
+
+
+Uitvoeren (*execute): 
+
+Hoewel dit minder vaak wordt genoemd in MySQL, 
+kun je het vergelijken met het uitvoeren van een script in een boek. 
+Hiermee kun je speciale bewerkingen uitvoeren die al in de database zijn gedefinieerd. 
+Het is alsof je een specifieke set instructies in het boek volgt om een bepaalde taak uit te voeren.
+
+
+
+Verwijderen (delete):
+
+Wanneer je dit nodig hebt: 
+Je hebt het recht om gegevens te verwijderen wanneer je ongewenste of verouderde gegevens uit de database wilt verwijderen. 
+Dit kan nodig zijn om de database op te schonen of om privacyredenen.
+
+Wat een hacker hiermee zou kunnen: 
+Een kwaadwillende hacker kan met het verwijderingsrecht gegevens vernietigen of verwijderen zonder toestemming. Dit kan leiden tot gegevensverlies, schade aan de database en verstoring van de bedrijfsprocessen.
+
+
+Uitvoeren (execute):
+
+Wanneer je dit nodig hebt: 
+Het recht om code uit te voeren is meestal beperkt tot beheerders of ontwikkelaars die specifieke opgeslagen procedures 
+of functies in de database moeten uitvoeren. Dit kan nodig zijn om complexe berekeningen uit te voeren of aangepaste functionaliteit te activeren.
+
+Wat een hacker hiermee zou kunnen:
+Een hacker kan misbruik maken van het uitvoeringsrecht om schadelijke code in de database uit te voeren. 
+Hiermee kunnen ze toegang krijgen tot gevoelige gegevens, de database beschadigen of ongeautoriseerde acties uitvoeren, 
+zoals het stelen van gegevens of het overnemen van de controle over de database. 
+Het is essentieel om dit recht zeer beperkt en veilig te beheren om mogelijke bedreigingen te minimaliseren.
